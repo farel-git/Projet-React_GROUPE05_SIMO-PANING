@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 14 Pro",
+      "price": 1299,
+      "image": "https://via.placeholder.com/150",
+      "description": "Smartphone avec écran OLED et appareil photo exceptionnel."
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "price": 1199,
+      "image": "https://via.placeholder.com/150",
+      "description": "Performances haut de gamme et design raffiné."
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5",
+      "price": 399,
+      "image": "https://via.placeholder.com/150",
+      "description": "Casque Bluetooth avec réduction active du bruit."
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro 16\"",
+      "price": 2499,
+      "image": "https://via.placeholder.com/150",
+      "description": "Ordinateur portable puissant pour professionnels."
+    },
+    {
+      "id": 5,
+      "name": "Samsung Smart TV 65\"",
+      "price": 1500,
+      "image": "https://via.placeholder.com/150",
+      "description": "TV intelligente 4K avec des couleurs vives."
+    },
+    {
+      "id": 6,
+      "name": "Canon EOS R6",
+      "price": 2499,
+      "image": "https://via.placeholder.com/150",
+      "description": "Appareil photo sans miroir avec vidéo 4K."
+    },
+    {
+      "id": 7,
+      "name": "Bose SoundLink Revolve",
+      "price": 199,
+      "image": "https://via.placeholder.com/150",
+      "description": "Enceinte Bluetooth avec un son à 360°."
+    },
+    {
+      "id": 8,
+      "name": "PlayStation 5",
+      "price": 599,
+      "image": "https://via.placeholder.com/150",
+      "description": "Console de jeu nouvelle génération."
+    },
+    {
+      "id": 9,
+      "name": "Nintendo Switch OLED",
+      "price": 349,
+      "image": "https://via.placeholder.com/150",
+      "description": "Console hybride avec écran OLED amélioré."
+    },
+    {
+      "id": 10,
+      "name": "Apple Watch Series 8",
+      "price": 499,
+      "image": "https://via.placeholder.com/150",
+      "description": "Montre connectée avec suivi de la santé."
+    }
+  ]
+  
